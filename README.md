@@ -1,26 +1,35 @@
 ![banner](images/banner.png)
 
-# Hello, I'm Roberto.
+<h1>
+    <picture>
+        <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.webp" type="image/webp">
+        <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.gif" alt="👋" width="32" height="32">
+    </picture>
+   Hello, I'm Roberto. 
+</h1>
 
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
-## MSc Artificial Intelligence @ VU Amsterdam
+<h2>
+    <picture>
+        <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.webp" type="image/webp">
+        <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" alt="🎓" width="32" height="32">
+    </picture>
+    MSc Artificial Intelligence @ VU Amsterdam
+</h2>
 
-Former software engineer, about to graduate in Artificial Intelligence at Vrije
-Universiteit Amsterdam.
-
-My master's thesis focuses on exploring the benefits of applying Transformers
-and RNN to RL algorithms.
-
-My research interests are AI Safety & Alignment, Reinforcement Learning, NLP.
+I'm a passionate researcher leveraging the power of artificial intelligence and
+deep learning to unlock the limitless potential of intelligent systems, 
+pioneering advancements that shape the future of technology and revolutionize
+the way we interact with the world.
 
 <h2>
     <picture>
-        <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6f8/512.webp" type="image/webp">
-        <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6f8/512.gif" alt="🛸" width="32" height="32">
+        <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9be/512.webp" type="image/webp">
+        <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9be/512.gif" alt="🦾" width="32" height="32">
     </picture>
     Technical skills
 </h2>
@@ -46,8 +55,8 @@ My research interests are AI Safety & Alignment, Reinforcement Learning, NLP.
 
 <h2>
     <picture>
-        <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.webp" type="image/webp">
-        <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.gif" alt="👋" width="32" height="32">
+        <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f48c/512.webp" type="image/webp">
+        <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f48c/512.gif" alt="💌" width="32" height="32">
     </picture>
     Connect with me
 </h2>
